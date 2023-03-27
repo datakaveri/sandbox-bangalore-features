@@ -1,0 +1,45 @@
+{
+  "id": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc/cat-sandbox.iudx.org.in/bangalore-foi",
+      "accessPolicy": "OPEN",
+      "dataSample": {
+      },
+      "itemStatus": "ACTIVE",
+      "type": [
+        "iudx:ResourceGroup",
+        "iudx:DigitalElevationModel"
+      ],
+      "provider": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc",
+      "iudxResourceAPIs": [
+        "ATTR",
+        "TEMPORAL"
+      ],
+      "location": {
+        "address": "Bangalore",
+        "type": "Place"
+      },
+      "@context": "https://voc.iudx.org.in/",
+      "tags": [
+        "features",
+        "lakes",
+        "rivers",
+        "buildings"
+      ],
+      "name": "bangalore-foi",
+      "description": "In this notebook, we illustrate the use of GSX and the OGC Features api to access Feature Layers in Bangalore such as Water bodies, buildings, etc. In addition, we illustrate the use of an open source library to handle this GeoJSON based feature data. \n\n <br/>  <img src=\"https://raw.githubusercontent.com/datakaveri/sandbox-bangalore-foi/master/docs/foi1.png\" alt=\"FOI\" height=\"400\" width=\"600\"/>",
+      "resourceServer": "datakaveri.org/f7e044eee8122b5c87dce6e7ad64f3266afa41dc/cat-sandbox.iudx.org.in",
+      "resourceType": "MESSAGESTREAM",
+      "label": "Features of Interest in Bangalore",
+      "dataDescriptor": {
+      },
+      "repositoryURL": "https://github.com/datakaveri/sandbox-bangalore-foi.git",
+      "referenceResources": [
+        {
+          "id": "datakaveri.org/254ee63ac91d837f550784d6512990e23d30549b/soi.iudx.io/bangalore_features_of_interest",
+          "name": "Features of Interest in Bangalore",
+          "description": "OGC Features Resource for Bangalore",
+          "additionalInfoURL": "https://catalogue.gsx.iudx.io/dataset/datakaveri.org-254ee63ac91d837f550784d6512990e23d30549b-soi.iudx.io-bangalore_features_of_interest"
+        }
+      ],
+      "itemCreatedAt": "2021-07-05T12:05:26+0530",
+      "instance": "sandbox"
+}
